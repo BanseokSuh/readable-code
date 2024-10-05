@@ -2,6 +2,9 @@ package cleancode.minesweeper.tobe.position;
 
 import java.util.Objects;
 
+/**
+ * VO
+ */
 public class CellPosition {
 
     private final int rowIndex;
